@@ -6,6 +6,6 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 ## Progress
 
 - ✅ Day 1 - Repository Setup
-- ⬜ Day 2
-- ⬜ Day 3
+- ✅ Day 2 - Prompt Engineering
+- ✅ Day 3 - Role based prompt engineering
 - ⬜ Day 4
