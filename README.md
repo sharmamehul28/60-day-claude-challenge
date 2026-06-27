@@ -9,7 +9,7 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 2 - Prompt Engineering
 - ✅ Day 3 - Role based prompt engineering
 - ✅ Day 4 - Chain-of-Thought Prompting
-- ⬜ Day 5 -
+- ✅ Day 5 - Context Engineering
 - ⬜ Day 6 - 
 - ⬜ Day 7 -
 - ⬜ Day 8-
