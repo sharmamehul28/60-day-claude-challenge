@@ -156,9 +156,9 @@ Optimize your LinkedIn with "Open to Work"
 Push your first notebook to GitHub
 
 The PDF is export-ready and perfect to screenshot and share on LinkedIn. Best of luck — you're well-positioned to crack a DA/DS role in 6 months! 🚀
-Generated using Chain-of-Thought ReasoningCareer roadmapDocument · PDF Download and open
+Generated using Chain-of-Thought ReasoningCareer roadmapDocument<img width="1869" height="2642" alt="Screenshot_27-6-2026_10949_" src="https://github.com/user-attachments/assets/78aa5baa-93ef-4022-8923-a971bd710dd4" />
+<img width="1869" height="2642" alt="Screenshot_27-6-2026_10949_" src="https://github.com/user-attachments/assets/d6d2a926-0b47-47ae-9063-560c2873a142" />
 
-Example:
 
 
 ---
@@ -191,6 +191,7 @@ The biggest takeaway from this exercise was that a personalized roadmap is much 
 # Screenshots
 
 <img width="1432" height="953" alt="Screenshot 2026-06-27 095922" src="https://github.com/user-attachments/assets/9d64d44d-2155-4c2c-8fdc-28ae24749ef4" />
+<img width="1869" height="2642" alt="Screenshot_27-6-2026_10949_" src="https://github.com/user-attachments/assets/350ab7bd-25d7-41ef-a86b-61c3970cda0d" />
 
 
 ---
