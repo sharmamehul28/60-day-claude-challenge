@@ -109,11 +109,12 @@ Providing context helped the AI understand my background and objectives, allowin
 ---
 
 ## 📸 Screenshots
+<img width="686" height="682" alt="Screenshot 2026-06-28 113249" src="https://github.com/user-attachments/assets/82d9a2f2-38d4-4a10-beaa-c556ed6fa3ec" />
+<img width="589" height="587" alt="Screenshot 2026-06-28 113358" src="https://github.com/user-attachments/assets/5f04c53f-c1d2-4bb5-b051-94e90c815755" />
+<img width="679" height="685" alt="Screenshot 2026-06-28 113848" src="https://github.com/user-attachments/assets/80e2bc94-968d-4094-9b21-f73c1ee0fe23" />
 
-* Prompt A
-* Output A
-* Prompt B
-* Output B
+
+
 
 ---
 
