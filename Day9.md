@@ -1,4 +1,4 @@
-# 🍎 Day 9 – NutriScope: MVP vs Enhanced Version
+# Day 9 – NutriScope: MVP vs Enhanced Version
 
 ## 📌 Objective
 
@@ -28,7 +28,7 @@ NutriScope is an AI-generated nutrition dashboard that helps users explore nutri
 
 ### Generated HTML File
 
-* `nutriscope_mvp.html`
+[nutriscope.html](https://github.com/user-attachments/files/29594677/nutriscope.html)
 
 ---
 
@@ -50,7 +50,7 @@ NutriScope is an AI-generated nutrition dashboard that helps users explore nutri
 
 ### Generated HTML File
 
-* `nutriscope_enhanced.html`
+[nutriscope_enhanced.html](https://github.com/user-attachments/files/29594708/nutriscope_enhanced.html)
 
 ---
 
