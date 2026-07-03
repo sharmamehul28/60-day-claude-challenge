@@ -29,7 +29,7 @@ Using the provided portfolio prompt, I customized the placeholders with my perso
 
 # 📄 Generated HTML File
 
-**File Included:** `portfolio.html`
+**File Included:** [portfolio.html](https://github.com/user-attachments/files/29628166/portfolio.html)
 
 The complete portfolio website generated using Claude AI is included in this repository.
 
