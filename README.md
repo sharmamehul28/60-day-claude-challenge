@@ -18,5 +18,5 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 11 - ATS Resume Optimization with Claude AI
 - ✅ Day 12 - AI-Powered Job Search & Personal Branding Toolkit
 - ✅ Day 13 - AI-Powered Job Discovery with Claude & Indeed Connector
-- ⬜
+- ✅ Day 14 - AI Job Red Flag Detector
 - ⬜
