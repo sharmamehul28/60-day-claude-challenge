@@ -19,4 +19,8 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 12 - AI-Powered Job Search & Personal Branding Toolkit
 - ✅ Day 13 - AI-Powered Job Discovery with Claude & Indeed Connector
 - ✅ Day 14 - AI Job Red Flag Detector
+- ✅ Day 15 - AI Generated Vedic Astrology Report
+- ⬜
+- ⬜
+- ⬜
 - ⬜
