@@ -20,7 +20,7 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 13 - AI-Powered Job Discovery with Claude & Indeed Connector
 - ✅ Day 14 - AI Job Red Flag Detector
 - ✅ Day 15 - AI Generated Vedic Astrology Report
-- ⬜
-- ⬜
+- ✅ Day 16 - Claude Custom Skill: Stock Fundamental Research
+- ✅ Day 17 - AI Vehicle Cost Analysis Dashboard
 - ⬜
 - ⬜
