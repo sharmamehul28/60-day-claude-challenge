@@ -1,5 +1,14 @@
 # Day 20 – AI Face Puzzle Game using Claude
 
+---
+
+## File included 
+[Face_Puzzle_Game.html](https://github.com/user-attachments/files/29969956/Face_Puzzle_Game.html)
+
+
+---
+
+
 ## 🎯 Objective
 
 Build a complete **Face Puzzle Game** using Claude AI that captures the user's face through the webcam and converts it into an interactive drag-and-drop puzzle.
