@@ -23,9 +23,9 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 16 - Claude Custom Skill: Stock Fundamental Research
 - ✅ Day 17 - AI Vehicle Cost Analysis Dashboard
 - ✅ Day 18 - Brain Dump Action Planner (Claude Custom Skill)
-- ⬜
-- ⬜
-- ⬜
+- ✅ Day 19 - Football Intelligence Hub
+- ✅ Day 20 - AI Face Puzzle Game using Claude
+- ✅ Day 21 - Digital Privacy Dashboard
 - ⬜
 - ⬜
 - ⬜
