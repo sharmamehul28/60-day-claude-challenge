@@ -73,7 +73,7 @@ Built an interactive **Digital Privacy Dashboard** using Claude AI that analyzes
 
 ## 📁 Files Included
 
-* `digital-footprint-dashboard.html`
+* [digital-footprint-dashboard.html](https://github.com/user-attachments/files/30006431/digital-footprint-dashboard.html)
 * Dashboard Screenshots
 
 ---
