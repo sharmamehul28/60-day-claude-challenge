@@ -30,7 +30,14 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 23 - Customer & MVP Blueprint using AI
 - ✅ Day 24 - Business Strategy & Sustainability Report
 - ✅ Day 25 - AI Shark Tank Simulator
+- ✅ Day 26 - Prior Authorization Workflow Simulator
+- ✅ Day 27 – Prior Authorization Story Simulator
+- ✅ Day 28 – Hospital Admission Readiness Simulator
+- ✅ Day 29 – Operation Lifeline: Supply Chain Crisis Lab
 - ⬜
 - ⬜
 - ⬜
-- ⬜
+
+
+
+
