@@ -6,7 +6,7 @@ Today, I built an interactive **Marketing Strategy Simulator** that teaches user
 The simulator offers three different learning paths:
 - 🏢 Use My Own Business
 - 🙋 Build My Personal Brand
-- 🎲 Random Client Simulation
+- 🎲 Random Client Simulation.
 
 Each playthrough generates different scenarios, making the experience replayable and practical.
 
