@@ -34,6 +34,13 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 27 – Prior Authorization Story Simulator
 - ✅ Day 28 – Hospital Admission Readiness Simulator
 - ✅ Day 29 – Operation Lifeline: Supply Chain Crisis Lab
+- ✅ Day 30 - Supply Chain Builder
+- ✅ Day 31 - AI Supply Chain Control Tower
+- ✅ Day 32 - Think Like a Marketing Strategist: Grow This Brand
+- ✅ Day 33 - Media Integrity Analyzer
+- ✅ Day 34 - Marketing Detective
+- ✅ Day 35 - Prompt Puzzle: Master AI Prompting Through Play
+- ⬜  
 - ⬜
 - ⬜
 - ⬜
