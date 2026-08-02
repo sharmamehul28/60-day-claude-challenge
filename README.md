@@ -41,6 +41,13 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 34 - Marketing Detective
 - ✅ Day 35 - Prompt Puzzle: Master AI Prompting Through Play
 - ✅ Day 36 – Cognitive Pattern Explorer
+- ✅ Day 37 – Task Compass
+- ✅ Day 38 – Typing Speed Studio
+- ✅ Day 39 – PDF Splitter & Merger
+- ✅ Day 40 – Prep: AI Interview Coach
+- ⬜
+- ⬜
+- ⬜
 - ⬜
 - ⬜
 - ⬜
