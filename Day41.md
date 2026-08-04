@@ -104,23 +104,16 @@ Build an interactive educational platform that teaches Python OOP from beginner 
 
 ## 📸 Screenshots
 
-- Home Screen
-- Learning Objectives
-- Module 1
-- Module 2
-- Module 3
-- Module 4
-- Quiz Results
-- Final Challenge
-- Cheat Sheet
+<img width="1919" height="863" alt="Screenshot 2026-08-04 060322" src="https://github.com/user-attachments/assets/4a6c988c-8505-4c18-85c0-829f2a740f0e" />
+
 
 ---
 
 ## 📂 Files
 
-- interactive-learning-studio.html
-- day41.md
-- screenshots/
+- interactive-learning-studio.html - [interactive-learning-studio.html](https://github.com/user-attachments/files/30682807/interactive-learning-studio.html)
+
+
 
 ---
 
