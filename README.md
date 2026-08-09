@@ -45,8 +45,13 @@ My 60 Days of AI &amp; Claude Code Challenge inspired by AB Talks.
 - ✅ Day 38 – Typing Speed Studio
 - ✅ Day 39 – PDF Splitter & Merger
 - ✅ Day 40 – Prep: AI Interview Coach
-- ⬜
-- ⬜
+- ✅ Day 41 – Interactive Learning Studio
+- ✅ Day 42 – Personal Financial Command Center
+- ✅ Day 43 – AI Workflow Architect
+- ✅ Day 44 – LinkedIn Profile Optimizer
+- ✅ Day 45 – AI Decision Strategist
+- ✅ Day 46 — Autonomous Agent Studio
+- ✅ Day 47 — Content Intelligence Studio
 - ⬜
 - ⬜
 - ⬜
