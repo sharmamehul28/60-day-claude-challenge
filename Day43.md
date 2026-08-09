@@ -112,14 +112,16 @@ Each stage includes:
 
 ## 📸 Screenshots
 
-<img width="1024" height="1536" alt="ChatGPT Image Aug 5, 2026, 09_28_41 PM" src="https://github.com/user-attachments/assets/d9a43d3f-a77b-4a6a-9907-9d2d6d2e9b92" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-09 104210" src="https://github.com/user-attachments/assets/738e7771-ed65-4f72-9f43-70b586239a8f" />
+
 
 
 ---
 
 ## 📂 Files
 
-- ai-workflow-architect.html
+- ai-workflow-architect.html - [AI Workflow Architect.html](https://github.com/user-attachments/files/30867938/AI.Workflow.Architect.html)
+
 
 
 ---
