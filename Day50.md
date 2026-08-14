@@ -1,3 +1,6 @@
+[defend-your-experience.html](https://github.com/user-attachments/files/31061999/defend-your-experience.html)
+
+
 # Day 50 — Defend Your Experience
 
 ## 🎯 Objective
@@ -83,7 +86,9 @@ Practicing how to explain the reasoning, evidence, challenges, decisions, and ou
 
 > Don't just prepare what you want to say. Prepare to defend why, how, and what you actually did.
 
-## 📁 Deliverables
+## 📁 Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-08-14 140405" src="https://github.com/user-attachments/assets/715bd46e-a287-428c-aae1-0e4528a82c6b" />
+
 
 
 
