@@ -32,9 +32,12 @@ An AI-powered career assistant designed for students and freshers. The platform 
 
 ## Deliverables
 
-* Product Requirements Document (PRD)
-* Implementation Blueprint (Days 2-10)
-* Project Pitch Deck
+* Product Requirements Document (PRD) - [JobTrack_AI_PRD.docx](https://github.com/user-attachments/files/31102230/JobTrack_AI_PRD.docx)
+
+* Implementation Blueprint (Days 2-10) - [JobTrack_AI_Blueprint.docx](https://github.com/user-attachments/files/31102232/JobTrack_AI_Blueprint.docx)
+
+* Project Pitch Deck - [JobTrack_AI_Pitch_Deck.pptx](https://github.com/user-attachments/files/31102233/JobTrack_AI_Pitch_Deck.pptx)
+
 
 ## Outcome
 
