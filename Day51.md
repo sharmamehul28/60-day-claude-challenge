@@ -6,9 +6,9 @@ Today I worked on the Product Discovery & Sprint Planning phase of my 10-day cap
 
 ## Project Chosen
 
-**CareerLaunch AI**
+**JobTrack AI**
 
-An AI-powered career assistant designed for students and freshers. The platform helps users improve resumes, prepare for interviews, identify skill gaps, generate cover letters, and track job applications from a single dashboard.
+JobTrack AI is a web-based job application tracker built for students and freshers to organize and manage their job search process from a single dashboard. It combines application tracking, resume version tracking, progress analytics, and lightweight rule-based "AI-style" guidance to help users stay organized and take the right next action at the right time.
 
 ## Activities Completed
 
