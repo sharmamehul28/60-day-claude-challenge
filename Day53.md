@@ -1,4 +1,4 @@
-[DAY3-SUMMARY.md](https://github.com/user-attachments/files/31114269/DAY3-SUMMARY.md)# Day 53 – Project Setup & Foundation
+# Day 53 – Project Setup & Foundation
 
 ## Challenge
 
