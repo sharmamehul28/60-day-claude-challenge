@@ -1,4 +1,4 @@
-# Day 53 – Project Setup & Foundation
+# Day 53 – JobTrack AI | Project Setup & Foundation
 
 ## Challenge
 
