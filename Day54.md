@@ -1,4 +1,4 @@
-# Day 54 – Authentication + Application Tracker CRUD
+# Day 54 – JobTrack AI | Authentication + Application Tracker CRUD
 
 Today I completed the core foundation of JobTrack AI.
 
