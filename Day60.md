@@ -1,4 +1,4 @@
-# Day 60 — Final Review, Portfolio & Graduation
+# Day 60 — JobTrack AI | Final Review, Portfolio & Graduation
 
 ## 🎓 AB Talks 60-Day Claude AI Challenge
 
